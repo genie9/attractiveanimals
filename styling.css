@@ -3,3 +3,7 @@ body, a {
     font-size: 25px;
     color: #000;
 }
+.description {
+    max-width: 600px;
+    background-color: pink;
+}
