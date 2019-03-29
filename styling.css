@@ -1,3 +1,5 @@
-.description {
-    background-color: pink;
+body, a {
+    background-color: #f9ccff;
+    font-size: 25px;
+    color: #000;
 }
